@@ -92,6 +92,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        <iframe src="https://paint.sumo.app/?parameter=value&another_parameter=another_value"></iframe>
-
 
